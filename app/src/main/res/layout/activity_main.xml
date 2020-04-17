@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+    <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="晚上，老公准备睡觉，刚上床就喊起来：老婆，昨晚儿子尿床了，叫你早上把被子拿出去晒的。 老婆：是啊，我晒了啊...... 老公：奇怪，今天天气这么好，被子都没有晒干啊？你放哪晒的啊？ 老婆：哦，放在朋友圈啊！"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="187dp"
+            tools:ignore="MissingConstraints"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
